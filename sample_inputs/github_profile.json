@@ -1,0 +1,29 @@
+{
+  "login": "priyanshu-dev",
+  "name": "Priyanshu Choudhary",
+  "email": "priyanshu@gmail.com",
+  "bio": "Backend Engineer | Open Source Contributor",
+  "location": "Bengaluru, India",
+  "html_url": "https://github.com/priyanshu-dev",
+  "skills": ["cpp", "nodejs", "mongodb", "express", "docker", "kubernetes", "python"],
+  "repos": [
+    {
+      "name": "distributed-cache",
+      "language": "Go",
+      "topics": ["redis", "caching", "microservices"],
+      "stars": 42
+    },
+    {
+      "name": "rest-api-boilerplate",
+      "language": "JavaScript",
+      "topics": ["nodejs", "express", "rest-api"],
+      "stars": 128
+    },
+    {
+      "name": "ml-pipeline",
+      "language": "Python",
+      "topics": ["machine-learning", "pandas", "scikit-learn"],
+      "stars": 17
+    }
+  ]
+}

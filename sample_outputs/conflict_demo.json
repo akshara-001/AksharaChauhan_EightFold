@@ -1,0 +1,281 @@
+{
+  "candidate_id": "ATS-2024-001",
+  "full_name": "Priyanshu Choudhary",
+  "emails": [
+    "priyanshu@gmail.com",
+    "akshaaraa28@gmail.com"
+  ],
+  "phones": [
+    "+919876543210",
+    "+917456860907"
+  ],
+  "location": "Bangalore, Karnataka",
+  "headline": "Senior Backend Engineer",
+  "experience": [
+    {
+      "title": "Backend Engineer",
+      "company": "TechCorp Solutions",
+      "start": "2022-01",
+      "end": null,
+      "is_current": true,
+      "source": "ats"
+    },
+    {
+      "title": "Software Developer Intern",
+      "company": "StartupXYZ",
+      "start": "2021-06",
+      "end": "2021-12",
+      "is_current": false,
+      "source": "ats"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech Computer Science & Engineering",
+      "institution": "NIT Raipur",
+      "year": "2022",
+      "source": "ats"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C++",
+      "confidence": 0.95,
+      "confidence_explanation": "0.95 (ats ✓ 0.8, csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "ats",
+        "csv"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "confidence": 0.95,
+      "confidence_explanation": "0.95 (ats ✓ 0.8, csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "ats",
+        "csv"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": 0.95,
+      "confidence_explanation": "0.95 (ats ✓ 0.8, csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "ats",
+        "csv"
+      ]
+    },
+    {
+      "name": "REST API",
+      "confidence": 0.95,
+      "confidence_explanation": "0.95 (ats ✓ 0.8, csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "ats",
+        "csv"
+      ]
+    },
+    {
+      "name": "Dart",
+      "confidence": 0.75,
+      "confidence_explanation": "0.75 (csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "csv"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.8,
+      "confidence_explanation": "0.8 (ats ✓ 0.8) → Probabilistic OR",
+      "sources": [
+        "ats"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "confidence": 0.75,
+      "confidence_explanation": "0.75 (csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "csv"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "confidence": 0.75,
+      "confidence_explanation": "0.75 (csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "csv"
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": 0.75,
+      "confidence_explanation": "0.75 (csv ✓ 0.75) → Probabilistic OR",
+      "sources": [
+        "csv"
+      ]
+    },
+    {
+      "name": "System Design",
+      "confidence": 0.8,
+      "confidence_explanation": "0.8 (ats ✓ 0.8) → Probabilistic OR",
+      "sources": [
+        "ats"
+      ]
+    }
+  ],
+  "links": {
+    "github": "https://github.com/priyanshu-dev",
+    "linkedin": "https://linkedin.com/in/priyanshu-dev"
+  },
+  "overall_confidence": 0.95,
+  "sources_used": [
+    "ats",
+    "csv"
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "ats",
+      "method": "priority_pick",
+      "raw_value": "Priyanshu Choudhary"
+    },
+    {
+      "field": "headline",
+      "source": "ats",
+      "method": "priority_pick",
+      "raw_value": "Senior Backend Engineer"
+    },
+    {
+      "field": "location",
+      "source": "ats",
+      "method": "priority_pick",
+      "raw_value": "Bangalore, Karnataka"
+    },
+    {
+      "field": "candidate_id",
+      "source": "ats",
+      "method": "priority_pick",
+      "raw_value": "ATS-2024-001"
+    },
+    {
+      "field": "email",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "priyanshu@gmail.com"
+    },
+    {
+      "field": "email",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "akshaaraa28@gmail.com"
+    },
+    {
+      "field": "phone",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "+91 9876543210"
+    },
+    {
+      "field": "phone",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "+91 7456860907"
+    },
+    {
+      "field": "phone",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "+91 9876543210"
+    },
+    {
+      "field": "phone",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "+91 7456860907"
+    },
+    {
+      "field": "skill",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "C++"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "C++"
+    },
+    {
+      "field": "skill",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "MongoDB"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "MongoDB"
+    },
+    {
+      "field": "skill",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "Node.js"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "Node.js"
+    },
+    {
+      "field": "skill",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "REST API"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "REST API"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "Dart"
+    },
+    {
+      "field": "skill",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "Docker"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "Express.js"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "Flutter"
+    },
+    {
+      "field": "skill",
+      "source": "csv",
+      "method": "structured_field",
+      "raw_value": "Java"
+    },
+    {
+      "field": "skill",
+      "source": "ats",
+      "method": "structured_field",
+      "raw_value": "System Design"
+    }
+  ]
+}

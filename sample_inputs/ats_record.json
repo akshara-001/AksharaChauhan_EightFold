@@ -1,0 +1,89 @@
+{
+  "id": "ATS-2024-003",
+  "name": "Akshara Chauhan",
+  "email": "akshaaraa28@gmail.com",
+  "phone": "+91 7456860907",
+  "location": "Punjab, India",
+  "applied_role": "Flutter Developer",
+  "skills": [
+    "Flutter",
+    "Dart",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "REST API",
+    "Geoapify API",
+    "Pixabay API",
+    "Cloudinary",
+    "C++",
+    "Java",
+    "Git",
+    "GitHub"
+  ],
+  "experience": [
+    {
+      "title": "Research Author",
+      "company": "ICITEEB-2025 International Conference",
+      "start": "Jul 2025",
+      "end": "Jul 2025"
+    },
+    {
+      "title": "Research Author and Presenter",
+      "company": "12th International Conference on Intelligent Systems and Embedded Design (ISED)",
+      "start": "2023",
+      "end": "2024"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Computer Science and Engineering",
+      "institution": "Chandigarh University",
+      "year": "2027"
+    }
+  ],
+  "projects": [
+    {
+      "name": "YatraSathi",
+      "description": "Cross-platform trip planning application for Chardham with hotel booking, nearby places, interactive maps, and gallery uploads.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API",
+        "Geoapify API",
+        "Pixabay API",
+        "Cloudinary"
+      ]
+    },
+    {
+      "name": "DSA Visualizer",
+      "description": "Cross-platform learning application with animated visualizations for arrays and linked lists.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Animations"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [
+    "Academic Excellence Award - Secured 1st Position in First Year CSE Batch (CGPA 9.28)",
+    "Winner - Internal Hackathon (SIH 2025) Techathon 4.0 (Top 50 Teams)"
+  ],
+  "coursework": [
+    "Data Structures & Algorithms",
+    "Operating Systems",
+    "Object Oriented Programming",
+    "Database Management System"
+  ],
+  "soft_skills": [
+    "Presentation",
+    "Problem Solving",
+    "Self-learning",
+    "Adaptability"
+  ],
+  "github": "https://github.com/Akshara-11410",
+  "linkedin": "https://linkedin.com/in/akshara-chauhan"
+}

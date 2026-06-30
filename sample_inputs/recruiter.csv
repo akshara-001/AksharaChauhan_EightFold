@@ -1,0 +1,4 @@
+candidate_id,full_name,email,phone,location,headline,skills,github,linkedin,notes
+C001,priyanshu choudhary,priyanshu@gmail.com,9876543210,Bangalore,Backend Engineer,"nodejs,mongodb,express,cpp",github.com/priyanshu-dev,linkedin.com/in/priyanshu-dev,Strong backend candidate with good problem solving
+C002,Aditi sharma,aditi.sharma@outlook.com,+91 9123456780,Mumbai,Full Stack Developer,"reactjs,nodejs,postgresql,docker",github.com/aditi-codes,linkedin.com/in/aditi-sharma,Excellent communicator; prefers remote
+C003,Akshara Chauhan,akshaaraa28@gmail.com,+91 7456860907,Punjab,Flutter Developer,"flutter,dart,nodejs,express,mongodb,cpp,java,rest api",github.com/akshaaraa,linkedin.com/in/akshara-chauhan,"Built YatraSathi trip planning app and DSA Visualizer; Research author with IEEE publication; Strong problem-solving and mobile development skills"

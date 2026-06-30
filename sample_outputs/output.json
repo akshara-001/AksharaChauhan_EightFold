@@ -1,0 +1,76 @@
+{
+  "candidate_id": "cand_c344618c23a0",
+  "full_name": "Linus Torvalds",
+  "emails": [],
+  "phones": [],
+  "location": "Portland, OR",
+  "headline": null,
+  "experience": [],
+  "education": [],
+  "skills": [
+    {
+      "name": "C",
+      "confidence": 0.9,
+      "confidence_explanation": "0.9 (github ✓ 0.9) → Probabilistic OR",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "name": "C++",
+      "confidence": 0.9,
+      "confidence_explanation": "0.9 (github ✓ 0.9) → Probabilistic OR",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "name": "OpenSCAD",
+      "confidence": 0.9,
+      "confidence_explanation": "0.9 (github ✓ 0.9) → Probabilistic OR",
+      "sources": [
+        "github"
+      ]
+    }
+  ],
+  "links": {
+    "github": "https://github.com/torvalds",
+    "linkedin": null
+  },
+  "overall_confidence": 0.9,
+  "sources_used": [
+    "github"
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "github",
+      "method": "priority_pick",
+      "raw_value": "Linus Torvalds"
+    },
+    {
+      "field": "location",
+      "source": "github",
+      "method": "priority_pick",
+      "raw_value": "Portland, OR"
+    },
+    {
+      "field": "skill",
+      "source": "github",
+      "method": "structured_field",
+      "raw_value": "C"
+    },
+    {
+      "field": "skill",
+      "source": "github",
+      "method": "structured_field",
+      "raw_value": "C++"
+    },
+    {
+      "field": "skill",
+      "source": "github",
+      "method": "structured_field",
+      "raw_value": "OpenSCAD"
+    }
+  ]
+}
